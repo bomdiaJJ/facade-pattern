@@ -1,0 +1,15 @@
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\bin\Debug\net7.0\Lanchonete.exe
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\bin\Debug\net7.0\Lanchonete.deps.json
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\bin\Debug\net7.0\Lanchonete.runtimeconfig.json
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\bin\Debug\net7.0\Lanchonete.dll
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\bin\Debug\net7.0\Lanchonete.pdb
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.AssemblyInfoInputs.cache
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.AssemblyInfo.cs
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.dll
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\refint\Lanchonete.dll
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.pdb
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\Lanchonete.genruntimeconfig.cache
+C:\Users\JJ\Desktop\JJ\Dev\Lanchonete\obj\Debug\net7.0\ref\Lanchonete.dll
